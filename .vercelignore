@@ -1,0 +1,12 @@
+node_modules
+.next
+.git
+.agents
+.codex
+.impeccable
+.turbo
+.gemini
+.vercel
+v11
+.env*
+*.tsbuildinfo
